@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lwd1815.top/"/>
-  <updated>2018-01-04T07:54:00.285Z</updated>
+  <updated>2018-01-04T07:56:03.693Z</updated>
   <id>http://www.lwd1815.top/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://www.lwd1815.top/2018/01/03/hello-world/"/>
     <id>http://www.lwd1815.top/2018/01/03/hello-world/</id>
     <published>2018-01-03T09:17:06.133Z</published>
-    <updated>2018-01-04T07:54:00.285Z</updated>
+    <updated>2018-01-04T07:56:03.693Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="lt-font-color-”ffffff-size-20-gt-半亩绿林"><a href="#lt-font-color-”ffffff-size-20-gt-半亩绿林" class="headerlink" title="&lt;font color=”ffffff size=20&gt;半亩绿林"></a>&lt;font color=”ffffff size=20&gt;半亩绿林</h1>&lt;font color=”ffffff size=14&gt;<br>平时看好多大神都有属于自己的专属博客,每每想起,总是羡慕的不行,所以今天我也决定建立一个属于自己的博客,虽然不是大神,但追赶大神的脚步不能停不是.<br>1 需要准备的条件<br>专属域名+github pages+hexo框架<br>专属域名准备<br>github pages不会操作的可以看鸿祥大神的这篇博客<br><a href="http://blog.csdn.net/lmj623565791/article/details/51319147" target="_blank" rel="noopener">http://blog.csdn.net/lmj623565791/article/details/51319147</a><br>2 hexo踩的坑<br>需要安装nodejs和git<br>安装好nodejs和git后,用管理员身份打开git bash<br>先安装淘宝镜像cnpm<br>npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a><br><br>然后安装hexo<br>cnpm install -g hexo-cli<br><br>安装好hexo后<br>1,在本地新建一个文件夹blog<br>2,利用管理员权限打开git bash<br>3,cd进入到此文件夹下面<br>4初始化hexo<br>hexo init<br>5,配置_config.yml<br>6因为3.0版本的需要安装deployer的server<br>以管理员身份打开git bash,进入到blog目录下<br>cnpm install hexo-deployer-git –save<br><br>7安装后依次执行下列命令<br><br>删除已经生成的静态页面<br>hexo clean<br>生成博客的静态页面<br>hexo generate<br>将生成的静态页面上传到github<br>hexo deploy<br><br>替换hexo的主题<br><a href="https://hexo.io/themes/" target="_blank" rel="noopener">https://hexo.io/themes/</a><br>选择一个主题,复制主题github的地址<br>进入到blog目录,在themes目录下,克隆<br>例如<br>https:github.com/iHogRend/legend themes/legend<br><br>然后在hexo的_config.yml文件中把配置主题<br>如theme:legend<br>然后根据主题中的使用规则自行配置<br>配置好后继续执行<br>hexo c<br>hexo g<br>hexo d<br>]]></content>
+    <content type="html"><![CDATA[<h1 id="半亩绿林"><a href="#半亩绿林" class="headerlink" title="半亩绿林"></a><font color="ffffff" size="20">半亩绿林</font></h1><font color="ffffff" size="14"><br>平时看好多大神都有属于自己的专属博客,每每想起,总是羡慕的不行,所以今天我也决定建立一个属于自己的博客,虽然不是大神,但追赶大神的脚步不能停不是.<br>1 需要准备的条件<br>专属域名+github pages+hexo框架<br>专属域名准备<br>github pages不会操作的可以看鸿祥大神的这篇博客<br><a href="http://blog.csdn.net/lmj623565791/article/details/51319147" target="_blank" rel="noopener">http://blog.csdn.net/lmj623565791/article/details/51319147</a><br>2 hexo踩的坑<br>需要安装nodejs和git<br>安装好nodejs和git后,用管理员身份打开git bash<br>先安装淘宝镜像cnpm<br>npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a><br><br>然后安装hexo<br>cnpm install -g hexo-cli<br><br>安装好hexo后<br>1,在本地新建一个文件夹blog<br>2,利用管理员权限打开git bash<br>3,cd进入到此文件夹下面<br>4初始化hexo<br>hexo init<br>5,配置_config.yml<br>6因为3.0版本的需要安装deployer的server<br>以管理员身份打开git bash,进入到blog目录下<br>cnpm install hexo-deployer-git –save<br><br>7安装后依次执行下列命令<br><br>删除已经生成的静态页面<br>hexo clean<br>生成博客的静态页面<br>hexo generate<br>将生成的静态页面上传到github<br>hexo deploy<br><br>替换hexo的主题<br><a href="https://hexo.io/themes/" target="_blank" rel="noopener">https://hexo.io/themes/</a><br>选择一个主题,复制主题github的地址<br>进入到blog目录,在themes目录下,克隆<br>例如<br>https:github.com/iHogRend/legend themes/legend<br><br>然后在hexo的_config.yml文件中把配置主题<br>如theme:legend<br>然后根据主题中的使用规则自行配置<br>配置好后继续执行<br>hexo c<br>hexo g<br>hexo d<br></font>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;lt-font-color-”ffffff-size-20-gt-半亩绿林&quot;&gt;&lt;a href=&quot;#lt-font-color-”ffffff-size-20-gt-半亩绿林&quot; class=&quot;headerlink&quot; title=&quot;&amp;lt;font color=”ff
+        &lt;h1 id=&quot;半亩绿林&quot;&gt;&lt;a href=&quot;#半亩绿林&quot; class=&quot;headerlink&quot; title=&quot;半亩绿林&quot;&gt;&lt;/a&gt;&lt;font color=&quot;ffffff&quot; size=&quot;20&quot;&gt;半亩绿林&lt;/font&gt;&lt;/h1&gt;&lt;font color=&quot;ffffff&quot; size=&quot;
       
     
     </summary>
